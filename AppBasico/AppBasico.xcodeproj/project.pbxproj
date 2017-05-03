@@ -13,6 +13,7 @@
 		4DB70EFF1EBA15BB0067B6B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DB70EFD1EBA15BB0067B6B2 /* LaunchScreen.storyboard */; };
 		4DB70F0D1EBA4E450067B6B2 /* ProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB70F0C1EBA4E450067B6B2 /* ProductViewController.swift */; };
 		4DB70F2D1EBA548D0067B6B2 /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB70F2C1EBA548D0067B6B2 /* ContactViewController.swift */; };
+		4DB70F2F1EBA5DAF0067B6B2 /* ProductsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB70F2E1EBA5DAF0067B6B2 /* ProductsTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4DB70F001EBA15BB0067B6B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4DB70F0C1EBA4E450067B6B2 /* ProductViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductViewController.swift; sourceTree = "<group>"; };
 		4DB70F2C1EBA548D0067B6B2 /* ContactViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
+		4DB70F2E1EBA5DAF0067B6B2 /* ProductsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductsTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4DB70F001EBA15BB0067B6B2 /* Info.plist */,
 				4DB70F0C1EBA4E450067B6B2 /* ProductViewController.swift */,
 				4DB70F2C1EBA548D0067B6B2 /* ContactViewController.swift */,
+				4DB70F2E1EBA5DAF0067B6B2 /* ProductsTableViewController.swift */,
 			);
 			path = AppBasico;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DB70F0D1EBA4E450067B6B2 /* ProductViewController.swift in Sources */,
+				4DB70F2F1EBA5DAF0067B6B2 /* ProductsTableViewController.swift in Sources */,
 				4DB70EF51EBA15BB0067B6B2 /* AppDelegate.swift in Sources */,
 				4DB70F2D1EBA548D0067B6B2 /* ContactViewController.swift in Sources */,
 			);
