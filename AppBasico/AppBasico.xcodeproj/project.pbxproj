@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D494FCD1EBB4F410031FA8A /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D494FCC1EBB4F410031FA8A /* Product.swift */; };
 		4DB70EF51EBA15BB0067B6B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB70EF41EBA15BB0067B6B2 /* AppDelegate.swift */; };
 		4DB70EFA1EBA15BB0067B6B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DB70EF81EBA15BB0067B6B2 /* Main.storyboard */; };
 		4DB70EFC1EBA15BB0067B6B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DB70EFB1EBA15BB0067B6B2 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D494FCC1EBB4F410031FA8A /* Product.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		4DB70EF11EBA15BB0067B6B2 /* AppBasico.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppBasico.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DB70EF41EBA15BB0067B6B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4DB70EF91EBA15BB0067B6B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				4DB70F0C1EBA4E450067B6B2 /* ProductViewController.swift */,
 				4DB70F2C1EBA548D0067B6B2 /* ContactViewController.swift */,
 				4DB70F2E1EBA5DAF0067B6B2 /* ProductsTableViewController.swift */,
+				4D494FCC1EBB4F410031FA8A /* Product.swift */,
 			);
 			path = AppBasico;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			files = (
 				4DB70F0D1EBA4E450067B6B2 /* ProductViewController.swift in Sources */,
 				4DB70F2F1EBA5DAF0067B6B2 /* ProductsTableViewController.swift in Sources */,
+				4D494FCD1EBB4F410031FA8A /* Product.swift in Sources */,
 				4DB70EF51EBA15BB0067B6B2 /* AppDelegate.swift in Sources */,
 				4DB70F2D1EBA548D0067B6B2 /* ContactViewController.swift in Sources */,
 			);
